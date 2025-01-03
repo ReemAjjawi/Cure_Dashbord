@@ -3,8 +3,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 
 import '../../../core/helper/indicator.dart';
 import '../../../core/resources/managers/colors_manager.dart';
-import '../../home.dart';
-import '../model.dart';
+import '../../home/home.dart';
+import '../logIn_model_admin.dart';
 import 'bloc/login_bloc.dart';
 import 'bloc/login_event.dart';
 import 'bloc/login_state.dart';

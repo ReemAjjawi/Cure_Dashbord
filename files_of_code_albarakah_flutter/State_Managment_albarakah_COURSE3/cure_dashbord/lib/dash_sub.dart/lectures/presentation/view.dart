@@ -5,8 +5,8 @@ import 'package:flutter_bloc/flutter_bloc.dart';
 import '../../../../core/resources/managers/colors_manager.dart';
 import '../../../core/helper/indicator.dart';
 import '../../../main.dart';
-import '../../audio/presentation/view.dart';
-import '../../home.dart';
+import '../../audio_pdf/view.dart';
+import '../../home/home.dart';
 import 'bloc/lectures_bloc.dart';
 
 class ShowLectures extends StatefulWidget {

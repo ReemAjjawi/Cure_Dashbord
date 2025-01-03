@@ -1,5 +1,5 @@
 import 'package:cure_dashbord/dash_sub.dart/auth/presentation/view.dart';
-import 'package:cure_dashbord/dash_sub.dart/home.dart';
+import 'package:cure_dashbord/dash_sub.dart/home/home.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:hive_flutter/hive_flutter.dart';

@@ -3,10 +3,10 @@ import 'package:bloc/bloc.dart';
 import 'package:dio/dio.dart';
 import 'package:meta/meta.dart';
 
-import '../../../../subjects/handle_model.dart';
-import '../../model.dart';
-import '../../services.dart';
-import '../../subject_post_model.dart';
+import '../../../../core/handle_model.dart';
+import '../../models/response/model.dart';
+import '../../service.dart';
+import '../../models/request/subject_post_model.dart';
 
 part 'subjects_event.dart';
 part 'subjects_state.dart';

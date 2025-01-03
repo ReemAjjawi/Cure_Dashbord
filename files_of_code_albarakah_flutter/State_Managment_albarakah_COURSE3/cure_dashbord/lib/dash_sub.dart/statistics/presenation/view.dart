@@ -5,7 +5,7 @@ import '../../../../core/helper/indicator.dart';
 import '../../../../main.dart';
 import '../../../core/resources/managers/colors_manager.dart';
 import '../../subjects/presentation/bloc/subjects_bloc.dart';
-import '../../subjects/subject_post_model.dart';
+import '../../subjects/models/request/subject_post_model.dart';
 import 'statistics_bloc.dart';
 import 'statistics_event.dart';
 import 'statistics_state.dart';

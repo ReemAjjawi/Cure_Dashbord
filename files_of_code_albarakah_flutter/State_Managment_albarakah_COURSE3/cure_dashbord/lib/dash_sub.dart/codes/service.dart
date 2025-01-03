@@ -2,9 +2,9 @@ import 'package:dio/dio.dart';
 
 import '../../../config/app_url.dart';
 import '../../../config/header_config.dart';
-import '../../subjects/handle_model.dart';
-import 'model.dart';
-import 'response_code_model.dart';
+import '../../core/handle_model.dart';
+import 'models/request/model.dart';
+import 'models/response/response_code_model.dart';
 
 abstract class Service {
   Dio dio = Dio();

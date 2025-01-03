@@ -2,7 +2,7 @@
 import 'package:dio/dio.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 
-import '../../../../subjects/handle_model.dart';
+import '../../../core/handle_model.dart';
 
 import '../model.dart';
 import '../service.dart';

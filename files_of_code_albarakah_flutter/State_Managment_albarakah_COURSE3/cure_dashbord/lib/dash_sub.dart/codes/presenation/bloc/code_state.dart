@@ -1,4 +1,4 @@
-import '../../response_code_model.dart';
+import '../../models/response/response_code_model.dart';
 
 sealed class CodeState {}
 

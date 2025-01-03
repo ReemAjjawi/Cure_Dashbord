@@ -1,6 +1,6 @@
 // ignore_for_file: public_member_api_docs, sort_constructors_first
 
-import '../../model.dart';
+import '../../logIn_model_admin.dart';
 
 sealed class LogInClassEvent {}
 

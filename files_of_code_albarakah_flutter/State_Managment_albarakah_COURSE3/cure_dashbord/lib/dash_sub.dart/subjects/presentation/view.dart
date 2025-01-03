@@ -5,7 +5,7 @@ import '../../../../core/helper/indicator.dart';
 import '../../../../core/resources/managers/colors_manager.dart';
 
 import '../../../../main.dart';
-import '../../home.dart';
+import '../../home/home.dart';
 import '../../lectures/presentation/view.dart';
 import 'bloc/subjects_bloc.dart';
 

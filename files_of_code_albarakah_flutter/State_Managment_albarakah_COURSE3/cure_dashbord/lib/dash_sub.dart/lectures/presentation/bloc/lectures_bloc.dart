@@ -4,11 +4,11 @@ import 'package:dio/dio.dart';
 import 'package:file_picker/file_picker.dart';
 import 'package:meta/meta.dart';
 
-import '../../../../subjects/handle_model.dart';
-import '../../lecture_response_model_pdf.dart';
-import '../../model.dart';
-import '../../services.dart';
-import '../lecture_response_model_audio.dart';
+import '../../../../core/handle_model.dart';
+import '../../../audio_pdf/pdf/lecture_response_model_pdf.dart';
+import '../../models/request/model.dart';
+import '../../service.dart';
+import '../../../audio_pdf/audio/lecture_response_model_audio.dart';
 
 part 'lectures_event.dart';
 part 'lectures_state.dart';

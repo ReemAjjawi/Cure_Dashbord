@@ -2,7 +2,7 @@ import 'package:dio/dio.dart';
 
 import '../../config/app_url.dart';
 import '../../config/header_config.dart';
-import '../../subjects/handle_model.dart';
+import '../../core/handle_model.dart';
 import 'model.dart';
 
 abstract class Service {
